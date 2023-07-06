@@ -1,0 +1,29 @@
+.hero-banner    {
+    background-color: #1f2937;
+}
+
+
+.nav {
+    display: flex;
+    max-width: 80%;
+    margin-left: 10%;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.nav h1 {
+    margin-right: auto;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.main   {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.secondary  {
+    font-size: 18px;
+    color: #e5e7eb;
+}
