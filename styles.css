@@ -115,12 +115,49 @@ img {
 }
 
 .sec4   {
-    height: ;
+    height: 237px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
 }
 
 .sec4-content   {
+    display: grid;
+    grid-template-columns: 1fr 25%;
+    height: fit-content;
+    padding: 3ch 8ch;
+    color: #f9faf8;
     background-color: #3882f6;
+    width: 70%;
+    border: 1px white solid;
+    border-radius: 8px;
 
+}
+
+.sec4 button    {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    font-weight: bold;
+    
+}
+
+.sec4 div   {
+    grid-column: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.sec4 p {
+    margin: 0px;
+    padding: 0px;
+}
+.bold   {
+    font-weight: bold;
 }
 
 
