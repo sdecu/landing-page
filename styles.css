@@ -68,9 +68,22 @@ button  {
 }
 .sec2   {
     display: flex;
+    height: 370px;
+    width: 75%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sec2 p    {
     max-width: 18ch;
+    font-size: 18px;
+    color: #444444;
+
 }
 
 img {
     width: 18ch;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
 }
