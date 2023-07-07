@@ -1,9 +1,9 @@
 html    {
-    font-family: 'roboto' !important;
+    font-family: 'roboto';
 }
 body    {
     margin: auto;
-    font-family: 'roboto' !important;
+    font-family: 'roboto';
 }
 
 .hero-banner    {
@@ -86,4 +86,28 @@ img {
     width: 18ch;
     border: 3px solid #3882f6;
     border-radius: 10px;
+}
+
+.sec3   {
+    display: flex;
+    justify-content: center;
+    height: 370px;
+    background-color: #e5e7eb;
+    font: italic 36px 'roboto';
+    color: #1f2937;
+    padding: 35px;
+    font-weight: 400;
+    /* padding-left: 15ch;
+    padding-right: 15ch; */
+}
+
+.quote  {
+    max-width: 45ch;
+}
+
+.sec3 p {
+    display: flex;
+    justify-content: end;
+    font-size: 18px;
+    font-weight: bold;
 }
