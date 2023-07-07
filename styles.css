@@ -8,6 +8,7 @@ body    {
 
 .hero-banner    {
     background-color: #1f2937;
+    min-height: 370px;
 }
 
 
@@ -56,8 +57,12 @@ button  {
 }
 .img    {
     display: inline-block;
-    min-width: 250px;
-    height: 150px;
+    height: fit-content;
     background-color: grey;
+    color: #e5e7eb;
+    padding-top: 10ch;
+    padding-bottom: 10ch;
+    padding-left: 10ch;
+    padding-right: 10ch;
     
 }
