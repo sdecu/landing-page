@@ -114,7 +114,20 @@ img {
     font-weight: bold;
 }
 
+.sec4   {
+    height: ;
+}
+
 .sec4-content   {
     background-color: #3882f6;
 
+}
+
+
+footer  {
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
