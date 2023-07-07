@@ -66,3 +66,11 @@ button  {
     padding-right: 10ch;
     
 }
+.sec2   {
+    display: flex;
+    max-width: 18ch;
+}
+
+img {
+    width: 18ch;
+}
